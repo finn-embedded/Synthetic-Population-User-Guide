@@ -1,0 +1,18 @@
+---
+title: "SynthPop_info"
+author: "Abi Finn"
+date: "2024-07-05"
+output: html_document
+---
+
+# About {.tabset}
+
+-   Original author: Andreas Hoehn (Date: 2024-03-18).
+
+    -   Created for data workshops in Wales.
+
+-   They have been adapted slightly to be included with the External Synthetic Population user guide created by Abi Finn.
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
