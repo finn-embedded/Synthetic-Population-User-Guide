@@ -112,9 +112,11 @@ This case study and its findings provide a good example of how the Synthetic Pop
 
 You can work through the R code examples contained in this GitHub Repository and edit elements for your purposes. This option gives you more flexibility in what you can investigate and in your choice of visualisations.
 
-1.   **[SynthPop_dataPrep](SynthPop_dataPrep.md)** - Cleans your R workspace, load relevant libraries, and sets key definitions of variables used in later scripts.
+1.   **[gettingStarted](gettingStarted.md)** - Some guidance before downloading and using the scripts.
+  
+2.   **[SynthPop_dataPrep](SynthPop_dataPrep.md)** - Cleans your R workspace, load relevant libraries, and sets key definitions of variables used in later scripts.
 
-2.  **[SynthPop_dataLoad](SynthPop_dataLoad.md)** - This script loads the Synthetic Population and Understanding Society datasets and walks through each stage of merging these datasets together.
+3.  **[SynthPop_dataLoad](SynthPop_dataLoad.md)** - This script loads the Synthetic Population and Understanding Society datasets and walks through each stage of merging these datasets together.
 
 ### Non-Technical option
 
