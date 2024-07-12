@@ -32,5 +32,5 @@ set things up appropriately.
   data is available, along with all the information you will need to get
   started with the data.
 
-- Please refer to Table 1 in the README file when considering which
+- Please refer to Table 1 in the **[README](README.md)**  file when considering which
   variables to include in your analysis with the Synthetic Population.
