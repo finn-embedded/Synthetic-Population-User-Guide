@@ -14,7 +14,7 @@ Abi Finn
 - It should contain sub-folders for data, scripts, and output.
 
 ``` r
-setwd("C:/Users/elizabeth.finn/OneDrive - Greater Manchester Combined Authority/SIPHER/syntheticPopulation/scripts/workshopVersions")
+setwd("path/to/files")
 ```
 
 # Clean Workspace
