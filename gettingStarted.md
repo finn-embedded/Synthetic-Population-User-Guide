@@ -1,7 +1,5 @@
 Getting Started
 ================
-Abi Finn
-2024-07-12
 
 Before downloading the scripts in this repository, it is important to
 set things up appropriately.
